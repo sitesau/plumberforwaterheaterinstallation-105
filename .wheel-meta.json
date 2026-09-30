@@ -1,0 +1,19 @@
+{
+  "wheel_id": 327,
+  "structure": "umbrella",
+  "slug": "plumberforwaterheaterinstallation-105",
+  "project": "water-heater-installation-houston-comparison-fe3c8dd63a61e2121a",
+  "parent_t1_ref": "plumberforwaterheaterinstallation-152",
+  "node_role": "feeder",
+  "money_target": "plumberforwaterheaterinstallation.com",
+  "primary_kw": "water heater installation houston comparison",
+  "intended_url": "http://water-heater-installation-houston-comparison-fe3c8dd63a61e2121a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "10a4cf5644050da3",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/plumberforwaterheaterinstallation-152/",
+      "anchor": "water heater installation houston",
+      "rel": "follow"
+    }
+  ]
+}
